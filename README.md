@@ -1,6 +1,6 @@
 <img src="screenshots/app_icon.png"  width="100" />
 
-# Finotracks - finance control app as technology playground (WIP 🛠️)
+# Finotracks - finance control app as tech playground 
 APKs are hosted on [AppCenter](https://install.appcenter.ms/users/gregamer-gmail.com/apps/finances/distribution_groups/public "AppCenter")
 # Tech stack:
 - **Kotlin** for all code
